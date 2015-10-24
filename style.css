@@ -1,0 +1,17 @@
+<style>
+  warning {
+    /* This is a CSS comment.  I'm using it now to explain that i chose "lightcoral" because it is much easier on the yes than the ugle "purple" - it's yucky */
+    color: lightcoral;
+  }
+  body, ul, ol {
+    background-color: lightblue;
+    color: purple;
+    font-size: 19px;
+    margin-top: 15px;
+    padding-top: 10px;
+    border-color: pink;
+    border-width: thick;
+    border-style: solid;
+    line-height: 1.4
+  }
+</style>
